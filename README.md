@@ -21,8 +21,8 @@
 - Desenvolvendo projetos envolvendo IA, cloud e automação 
 - Explorando Linux e segurança ofensiva
 
-📫 Conecte-se comigo  
+ 📫 Conecte-se comigo  
 
-- GitHub:(https://github.com/FreitasCyberSec)  
-- LinkedIn:(https://www.linkedin.com/in/humberto-freitas-a0ba95274/) 
-- Website pessoal:(https://www.instagram.com/humbertofreitasbh/)
+- [GitHub](https://github.com/FreitasCyberSec)  
+- [LinkedIn](https://www.linkedin.com/in/humberto-freitas-a0ba95274/)  
+- [Website pessoal](https://www.instagram.com/humbertofreitasbh/)  
