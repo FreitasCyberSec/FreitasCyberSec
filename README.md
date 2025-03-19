@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Olá, eu sou Humberto Freitas  
 
-<!--
-**FreitasCyberSec/FreitasCyberSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Estudante de Engenharia de Software | Desenvolvedor Backend | Entusiasta em Cibersegurança, IA & Cloud | Usuário de Linux  
 
-Here are some ideas to get you started:
+📍 Diretamente de Minas Gerais, explorando o mundo da tecnologia uma linha de código por vez.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠️ Sobre Mim  
+
+- Desenvolvimento Backend
+- Cibersegurança
+- Inteligência Artificial & Machine Learning
+- SQL & Bancos de Dados
+- Computação em Nuvem
+- Linux & Sistemas Operacionais
+
+ 📈 No que estou trabalhando  
+
+- Melhorando minhas habilidades em desenvolvimento backend 
+- Aprofundando meus conhecimentos em cibersegurança
+- Contribuindo para projetos open-source  
+- Desenvolvendo projetos envolvendo IA, cloud e automação 
+- Explorando Linux e segurança ofensiva
+
+📫 Conecte-se comigo  
+
+- GitHub: (https://github.com/HumbertoFreitas)  
+- LinkedIn: *()*  
+- Website pessoal: (https://www.instagram.com/humbertofreitasbh/)
