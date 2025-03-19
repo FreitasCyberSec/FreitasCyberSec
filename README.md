@@ -23,6 +23,6 @@
 
 📫 Conecte-se comigo  
 
-- GitHub: (https://github.com/HumbertoFreitas)  
-- LinkedIn: *()*  
+- GitHub:(https://github.com/FreitasCyberSec)  
+- LinkedIn:(https://www.linkedin.com/in/humberto-freitas-a0ba95274/) 
 - Website pessoal:(https://www.instagram.com/humbertofreitasbh/)
