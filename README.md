@@ -11,6 +11,14 @@
 
 <hr style="border: 1px solid #444444;"/>
 
+<!-- Estatísticas de Commits (Quadrinho Verde) -->
+<h2 style="color: #ffffff;">Estatísticas de Commits</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FreitasCyberSec&bg_color=1d1f21&color=00ff00&line=00ff00&point=ffffff&hide_border=true" />
+</div>
+
+<hr style="border: 1px solid #444444;"/>
+
 <!-- Linguagens e Tecnologias -->
 <h2 style="color: #ffffff;">Linguagens e Tecnologias</h2>
 <ul style="color: #ffffff;">
@@ -24,8 +32,11 @@
 
 <hr style="border: 1px solid #444444;"/>
 
+<!-- Estatísticas do GitHub -->
+<h2 style="color: #ffffff;">Estatísticas</h2>
+<p style="color: #ffffff;">Abaixo estão as estatísticas de contribuições, commits e atividade no GitHub:</p>
+
 <!-- Exibindo as estatísticas do GitHub -->
-<h2 style="color: #ffffff;">Linguagens Mais Usadas</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreitasCyberSec&layout=compact&theme=dark&hide_border=true" />
 </div>
