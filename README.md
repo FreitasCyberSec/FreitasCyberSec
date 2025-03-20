@@ -28,7 +28,7 @@
 - [Website pessoal](https://www.instagram.com/humbertofreitasbh/)  
 
 <h1 align="center" style="color: #ffffff; background-color: #333333; padding: 20px; border-radius: 10px;">Humberto Freitas</h1>
-<p align="center" style="font-size: 18px; color: #ffffff;">Backend Developer | Cybersecurity Enthusiast | Python, SQL, Linux</p>
+<p align="center" style="font-size: 18px; color: #ffffff;">Software Engineer | Backend Developer | Cybersecurity Enthusiast | Python, SQL, Linux</p>
 
 <hr style="border: 1px solid #444444;"/>
 
@@ -63,7 +63,7 @@
 <h2 style="color: #ffffff;">Meus Contatos</h2>
 <p style="color: #ffffff;">GitHub: <a href="https://github.com/FreitasCyberSec" style="color: #ffcc00;">@FreitasCyberSec</a></p>
 <p style="color: #ffffff;">LinkedIn: <a href="https://www.linkedin.com/in/humberto-freitas-a0ba95274/" style="color: #ffcc00;">@humberto-freitas-a0ba95274</a></p>
-<p style="color: #ffffff;">Website: <a href="https://seu-site.com" style="color: #ffcc00;">seu-site.com</a></p>
+<p style="color: #ffffff;">Website: <a href="https://www.instagram.com/humbertofreitasbh/" style="color: #ffcc00;">@humbertofreitasbh</a></p>
 
 <hr style="border: 1px solid #444444;"/>
 
@@ -72,7 +72,7 @@
 <p>
   <a href="https://github.com/FreitasCyberSec" style="background-color: #333333; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">GitHub</a>
   <a href="https://www.linkedin.com/in/humberto-freitas-a0ba95274/" style="background-color: #0077b5; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">LinkedIn</a>
-  <a href="https://seu-site.com" style="background-color: #2d2d2d; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Website</a>
+  <a href="https://www.instagram.com/humbertofreitasbh/" style="background-color: #2d2d2d; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Instagram</a>
 </p>
 
 <hr style="border: 1px solid #444444;"/>
