@@ -40,6 +40,14 @@
 
 <hr style="border: 1px solid #444444;"/>
 
+<!-- Estatísticas de Commits (Quadrinho Verde) -->
+<h2 style="color: #ffffff;">Estatísticas de Commits</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FreitasCyberSec&bg_color=1d1f21&color=00ff00&line=00ff00&point=ffffff&hide_border=true" />
+</div>
+
+<hr style="border: 1px solid #444444;"/>
+
 <!-- Linguagens e Tecnologias -->
 <h2 style="color: #ffffff;">Linguagens e Tecnologias</h2>
 <ul style="color: #ffffff;">
@@ -72,16 +80,6 @@
 
 <hr style="border: 1px solid #444444;"/>
 
-<!-- Botões -->
-<h2 style="color: #ffffff;">Redes Sociais</h2>
-<p>
-  <a href="https://github.com/FreitasCyberSec" style="background-color: #333333; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">GitHub</a>
-  <a href="https://www.linkedin.com/in/humberto-freitas-a0ba95274/" style="background-color: #0077b5; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">LinkedIn</a>
-  <a href="https://www.instagram.com/humbertofreitasbh/" style="background-color: #2d2d2d; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Instagram</a>
-</p>
-
-<hr style="border: 1px solid #444444;"/>
-
 <!-- Badges -->
 <h2 style="color: #ffffff;">Badges de Habilidades</h2>
 <p>
@@ -89,4 +87,4 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Cybersecurity-2B2D3C?style=for-the-badge&logo=firewall&logoColor=white" alt="Cibersegurança"/>
-</p>
+</p> 
