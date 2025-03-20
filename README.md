@@ -1,32 +1,3 @@
-👋 Olá, eu sou Humberto Freitas  
-
-🚀 Estudante de Engenharia de Software | Desenvolvedor Backend | Entusiasta em Cibersegurança, IA & Cloud | Usuário de Linux  
-
-📍 Diretamente de Minas Gerais, explorando o mundo da tecnologia uma linha de código por vez.  
-
- 🛠️ Sobre Mim  
-
-- Desenvolvimento Backend
-- Cibersegurança
-- Inteligência Artificial & Machine Learning
-- SQL & Bancos de Dados
-- Computação em Nuvem
-- Linux & Sistemas Operacionais
-
- 📈 No que estou trabalhando  
-
-- Melhorando minhas habilidades em desenvolvimento backend 
-- Aprofundando meus conhecimentos em cibersegurança
-- Contribuindo para projetos open-source  
-- Desenvolvendo projetos envolvendo IA, cloud e automação 
-- Explorando Linux e segurança ofensiva
-
- 📫 Conecte-se comigo  
-
-- [GitHub](https://github.com/FreitasCyberSec)  
-- [LinkedIn](https://www.linkedin.com/in/humberto-freitas-a0ba95274/)  
-- [Website pessoal](https://www.instagram.com/humbertofreitasbh/)  
-
 <h1 align="center" style="color: #ffffff; background-color: #333333; padding: 20px; border-radius: 10px;">Humberto Freitas</h1>
 <p align="center" style="font-size: 18px; color: #ffffff;">Software Engineer | Backend Developer | Cybersecurity Enthusiast | Python, SQL, Linux</p>
 
@@ -36,14 +7,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FreitasCyberSec&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FreitasCyberSec&theme=dark&hide_border=true" />
-</div>
-
-<hr style="border: 1px solid #444444;"/>
-
-<!-- Estatísticas de Commits (Quadrinho Verde) -->
-<h2 style="color: #ffffff;">Estatísticas de Commits</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FreitasCyberSec&bg_color=1d1f21&color=00ff00&line=00ff00&point=ffffff&hide_border=true" />
 </div>
 
 <hr style="border: 1px solid #444444;"/>
@@ -61,11 +24,8 @@
 
 <hr style="border: 1px solid #444444;"/>
 
-<!-- Estatísticas do GitHub -->
-<h2 style="color: #ffffff;">Estatísticas</h2>
-<p style="color: #ffffff;">Abaixo estão as estatísticas de contribuições, commits e atividade no GitHub:</p>
-
 <!-- Exibindo as estatísticas do GitHub -->
+<h2 style="color: #ffffff;">Linguagens Mais Usadas</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreitasCyberSec&layout=compact&theme=dark&hide_border=true" />
 </div>
@@ -87,4 +47,4 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Cybersecurity-2B2D3C?style=for-the-badge&logo=firewall&logoColor=white" alt="Cibersegurança"/>
-</p> 
+</p>
