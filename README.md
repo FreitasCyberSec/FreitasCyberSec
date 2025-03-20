@@ -39,7 +39,7 @@ print(me.show_profile())
 ### 📊 Estatísticas do GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FreitasCyberSec&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FreitasCyberSec&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FreitasCyberSec&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
