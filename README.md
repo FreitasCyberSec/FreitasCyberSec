@@ -11,8 +11,6 @@
 
 <hr style="border: 1px solid #444444;"/>
 
-<hr style="border: 1px solid #444444;"/>
-
 <!-- Linguagens e Tecnologias -->
 <h2 style="color: #ffffff;">Linguagens e Tecnologias</h2>
 <ul style="color: #ffffff;">
