@@ -24,17 +24,6 @@
 
 <hr style="border: 1px solid #444444;"/>
 
-<!-- Estatísticas do GitHub -->
-<h2 style="color: #ffffff;">Estatísticas</h2>
-<p style="color: #ffffff;">Abaixo estão as estatísticas de contribuições, commits e atividade no GitHub:</p>
-
-<!-- Exibindo as estatísticas do GitHub -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreitasCyberSec&layout=compact&theme=dark&hide_border=true" />
-</div>
-
-<hr style="border: 1px solid #444444;"/>
-
 <!-- Links de Contato -->
 <h2 style="color: #ffffff;">Meus Contatos</h2>
 <p style="color: #ffffff;">GitHub: <a href="https://github.com/FreitasCyberSec" style="color: #ffcc00;">@FreitasCyberSec</a></p>
