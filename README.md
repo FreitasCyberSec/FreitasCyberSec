@@ -11,12 +11,6 @@
 
 <hr style="border: 1px solid #444444;"/>
 
-<!-- Estatísticas de Commits (Quadrinho Verde) -->
-<h2 style="color: #ffffff;">Estatísticas de Commits</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FreitasCyberSec&bg_color=1d1f21&color=00ff00&line=00ff00&point=ffffff&hide_border=true" />
-</div>
-
 <hr style="border: 1px solid #444444;"/>
 
 <!-- Linguagens e Tecnologias -->
