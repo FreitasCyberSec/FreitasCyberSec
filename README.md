@@ -1,39 +1,48 @@
-<h1 align="center">Humberto Freitas</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=08F7FE&center=true&vCenter=true&width=500&lines=Humberto+Freitas;Software+Engineer;Cybersecurity+Enthusiast;Python+%7C+SQL+%7C+Linux">
+</h1>
+
 <p align="center">
-  <strong>Software Engineer | Backend Developer | Cybersecurity Enthusiast | Python, SQL, Linux</strong>
+  <img src="https://i.imgur.com/Z4nRMnl.gif" width="600"/>
 </p>
 
 ---
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FreitasCyberSec&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FreitasCyberSec&theme=dark&hide_border=true" />
-</div>
+```bash
+> Bem-vindo ao meu perfil 🐍
+> echo "Software Engineer | Cybersecurity Enthusiast | Backend Developer"
+```
 
 ---
 
-## 🛠️ Linguagens e Tecnologias  
-- 🐍 **Python**  
-- ☁️ **SQL**  
-- 🦾 **Cibersegurança**  
-- 🔐 **Linux**  
-- 🌐 **JavaScript**  
-- 📊 **Inteligência Artificial**  
+## 🛠️ Tech Stack  
+```bash
+> Linguagens:
+> Python, SQL, JavaScript
+
+> Ferramentas:
+> Linux, Docker, Kubernetes, Git, Bash
+
+> Cibersegurança:
+> Pentest, OSINT, Wireshark, Nmap
+```
 
 ---
 
-## 🌐 Meus Contatos  
-- **GitHub:** [@FreitasCyberSec](https://github.com/FreitasCyberSec)  
-- **LinkedIn:** [@humberto-freitas-a0ba95274](https://www.linkedin.com/in/humberto-freitas-a0ba95274/)  
-- **Instagram:** [@humbertofreitasbh](https://www.instagram.com/humbertofreitasbh/)  
+## 👀 Contato  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/FreitasCyberSec)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/humberto-freitas-a0ba95274/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/humbertofreitasbh/)  
 
 ---
 
-## 🎖️ Badges de Habilidades  
+## ⚡ Estatísticas  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-2B2D3C?style=for-the-badge&logo=firewall&logoColor=white" alt="Cibersegurança"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FreitasCyberSec&show_icons=true&theme=radical&hide_border=true" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FreitasCyberSec&theme=radical&hide_border=true" width="450"/>
 </p>
+
+---
+
+```bash
+> echo "Fique à vontade para explorar 🚀"
