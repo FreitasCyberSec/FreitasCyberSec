@@ -1,0 +1,27 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Roda todos os dias à meia-noite UTC
+  workflow_dispatch:  # Permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar a snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: FreitasCyberSec
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit e Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Atualizando a snake animation"
+          add: "dist/*.svg"
