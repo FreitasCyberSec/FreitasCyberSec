@@ -48,11 +48,3 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Cybersecurity-2B2D3C?style=for-the-badge&logo=firewall&logoColor=white" alt="Cibersegurança"/>
 </p>
-
-<hr style="border: 1px solid #444444;"/>
-
-<!-- Snake Animation -->
-<h2 style="color: #ffffff;">Atividade de Commits</h2>
-<p align="center">
-  <img src="https://github.com/FreitasCyberSec/FreitasCyberSec/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
