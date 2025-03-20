@@ -24,6 +24,14 @@
 
 <hr style="border: 1px solid #444444;"/>
 
+<!-- Exibindo as estatísticas do GitHub -->
+<h2 style="color: #ffffff;">Linguagens Mais Usadas</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreitasCyberSec&layout=compact&theme=dark&hide_border=true" />
+</div>
+
+<hr style="border: 1px solid #444444;"/>
+
 <!-- Links de Contato -->
 <h2 style="color: #ffffff;">Meus Contatos</h2>
 <p style="color: #ffffff;">GitHub: <a href="https://github.com/FreitasCyberSec" style="color: #ffcc00;">@FreitasCyberSec</a></p>
@@ -39,4 +47,12 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Cybersecurity-2B2D3C?style=for-the-badge&logo=firewall&logoColor=white" alt="Cibersegurança"/>
+</p>
+
+<hr style="border: 1px solid #444444;"/>
+
+<!-- Snake Animation -->
+<h2 style="color: #ffffff;">Atividade de Commits</h2>
+<p align="center">
+  <img src="https://github.com/FreitasCyberSec/FreitasCyberSec/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
