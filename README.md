@@ -53,9 +53,14 @@
 
 <hr style="border: 1px solid #444444;"/>
 
-<!-- Estatísticas -->
+<!-- Estatísticas do GitHub -->
 <h2 style="color: #ffffff;">Estatísticas</h2>
-<p style="color: #ffffff;">Quantidade de commits: ![Commits](https://github-readme-stats.vercel.app/api?username=FreitasCyberSec&count_private=true&theme=dark&hide_border=true&show_icons=true)</p>
+<p style="color: #ffffff;">Abaixo estão as estatísticas de contribuições, commits e atividade no GitHub:</p>
+
+<!-- Exibindo as estatísticas do GitHub -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreitasCyberSec&layout=compact&theme=dark&hide_border=true" />
+</div>
 
 <hr style="border: 1px solid #444444;"/>
 
