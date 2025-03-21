@@ -60,3 +60,4 @@ print(me.show_profile())
 <h4 align="center">⚠️ Seu IP foi registrado... Ou será que não? 😈</h4>
 
 ---
+https://img.shields.io/badge/Visitantes-0?style=for-the-badge&color=lime&labelColor=black
