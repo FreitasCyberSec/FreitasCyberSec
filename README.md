@@ -60,5 +60,3 @@ print(me.show_profile())
 <h4 align="center">⚠️ Seu IP foi registrado... Ou será que não? 😈</h4>
 
 ---
-## Contador de Visitas
-[Clique aqui para ver a contagem de visitas](https://counter.dev/ef2fc6b0-3743-4d4b-ac0c-4a44beb03acc)
