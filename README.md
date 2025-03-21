@@ -50,3 +50,12 @@ print(me.show_profile())
   <a href="https://www.linkedin.com/in/humberto-freitas-a0ba95274/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/humbertofreitasbh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
+---
+<h3 align="center">🕵️‍♂️ Rastreamento Ativado...</h3>
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FreitasCyberSectitle=👽%20Acessos&color=limegreen&labelColor=black">
+</p>
+
+<h4 align="center">⚠️ Seu IP foi registrado... Ou será que não? 😈</h4>
+---
