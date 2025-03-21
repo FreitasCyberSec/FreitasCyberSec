@@ -57,6 +57,6 @@ print(me.show_profile())
   <img src="https://visitor-badge.laobi.icu/badge?page_id=FreitasCyberSec" alt="👀 Contador de visitas">
 </p>
 
-<h4 align="center">⚠️ Seu IP foi registrado... Ou será que não? 😈</h4>
+<h4 align="center">⚠️ Seu IP foi registrado. Cuidado...😈</h4>
 
 ---
