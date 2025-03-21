@@ -60,3 +60,14 @@ print(me.show_profile())
 <h4 align="center">⚠️ Seu IP foi registrado... Ou será que não? 😈</h4>
 
 ---
+---
+
+<h3 align="center">🕵️‍♂️ Visitantes rastreados...</h3>
+
+<p align="center">
+  <img src="https://hits.sh/SEU-USUARIO/" alt="👀 Contador de visitas">
+</p>
+
+<h4 align="center">⚠️ Seu acesso foi registrado. Cuidado... 😈</h4>
+
+---
